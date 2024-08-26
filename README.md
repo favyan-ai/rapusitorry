@@ -3,7 +3,9 @@ this is my lapuzitolly
 <br>
 i am fast codal
 
+---git ls 
 
+---git ls -h
 
 ---git status
 
