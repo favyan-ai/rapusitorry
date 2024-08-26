@@ -20,13 +20,21 @@ i am fast codal
 
 ---git commit -m "some messages"
 
+
+
+
+
+---git init 
+
+---git remote add origin <link>
+
+---git remote -v (verifies remote)
+
+---git brunch (to check branch)
+
+---git branch -M main (to rename branch)
+
 ---git push origin main
 
----random edit
 
-edit 2
-dwdwd
-edit 3
-edit 4
-
-FINAL EDIT 
+---git push -u origin main (makes use of git push only every other commits)
