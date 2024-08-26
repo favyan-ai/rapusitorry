@@ -17,3 +17,10 @@ i am fast codal
 ---git add . (adds everything)
 
 ---git commit -m "some messages"
+
+---git push origin main
+
+---random edit
+
+edit 2
+dwdwd
