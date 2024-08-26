@@ -33,7 +33,24 @@ i am fast codal
 ---git brunch (to check branch)
 
 ---git branch -M main (to rename branch)
+
 ---git push origin main
 
-
 ---git push -u origin main (makes use of git push only every other commits)
+
+
+
+BRANCH COMMANDS
+
+
+---git branch
+
+---git branch -M main [to rename the branch, can use anything instead of main]
+
+---git checkout [branch name]
+
+---git checkout -b <new branch name>
+
+---git branch -d feature 1 [delete branch]
+
+
